@@ -1,5 +1,6 @@
 import React from "react";
 import "./style.css";
+import { ColorControl } from "@storybook/blocks";
 
 export const Frame = () => {
   return (
@@ -38,7 +39,7 @@ export const Frame = () => {
           Proyectos:
           <br />
           <br />
-          https://cerulean-banoffee-c3a7c0.netlify.app/proyectos
+          <p className="red">en construcción</p>
         </div>
         <div className="overlap-2">
           <div className="rectangle-3" />
@@ -46,7 +47,7 @@ export const Frame = () => {
             Titulos:
             <br />
             <br />
-            https://cerulean-banoffee-c3a7c0.netlify.app/titulos
+            <p className="red">en construcción</p>
           </div>
           <div className="rectangle-4" />
           <div className="text-wrapper-2">Descripción:</div>

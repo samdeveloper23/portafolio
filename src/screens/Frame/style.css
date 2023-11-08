@@ -36,6 +36,7 @@
   position: absolute;
   top: 0;
   width: 360px;
+  filter: grayscale(50%);
 }
 
 .frame .text-wrapper {
@@ -340,4 +341,8 @@
   position: absolute;
   top: 338px;
   width: 261px;
+}
+
+.frame .red {
+  color: rgb(78, 29, 29);
 }
