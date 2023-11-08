@@ -1,0 +1,343 @@
+.frame {
+  background-color: #383838;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.frame .div {
+  background-color: #383838;
+  height: 1544px;
+  position: relative;
+  width: 360px;
+}
+
+.frame .overlap {
+  height: 397px;
+  left: 0;
+  position: absolute;
+  top: 6px;
+  width: 360px;
+}
+
+.frame .overlap-group {
+  height: 397px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 360px;
+}
+
+.frame .samperfil-removebg {
+  height: 342px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 360px;
+}
+
+.frame .text-wrapper {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 22px;
+  font-style: italic;
+  font-weight: 600;
+  left: 86px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 341px;
+  width: 208px;
+}
+
+.frame .codificacion {
+  height: 55px;
+  left: 288px;
+  object-fit: cover;
+  position: absolute;
+  top: 342px;
+  width: 55px;
+}
+
+.frame .img {
+  height: 55px;
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  top: 342px;
+  width: 55px;
+}
+
+.frame .overlap-group-2 {
+  height: 404px;
+  left: 0;
+  position: absolute;
+  top: 408px;
+  width: 359px;
+}
+
+.frame .rectangle {
+  height: 53px;
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  top: 16px;
+  width: 55px;
+}
+
+.frame .rectangle-2 {
+  background-color: #6f6f6f80;
+  height: 401px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 359px;
+}
+
+.frame .react-javascript-js {
+  height: 83px;
+  left: 90px;
+  position: absolute;
+  top: 0;
+  width: 83px;
+}
+
+.frame .jquery-original {
+  height: 56px;
+  left: 190px;
+  position: absolute;
+  top: 16px;
+  width: 64px;
+}
+
+.frame .angular-seeklogo-com {
+  height: 53px;
+  left: 276px;
+  position: absolute;
+  top: 16px;
+  width: 67px;
+}
+
+.frame .nodejs-seeklogo-com {
+  height: 57px;
+  left: 58px;
+  position: absolute;
+  top: 90px;
+  width: 92px;
+}
+
+.frame .npm-node-package {
+  height: 44px;
+  left: 211px;
+  position: absolute;
+  top: 94px;
+  width: 86px;
+}
+
+.frame .socket-telecom {
+  height: 67px;
+  left: 29px;
+  position: absolute;
+  top: 158px;
+  width: 80px;
+}
+
+.frame .mysql-seeklogo-com {
+  height: 52px;
+  left: 136px;
+  position: absolute;
+  top: 166px;
+  width: 80px;
+}
+
+.frame .mariadb-seeklogo-com {
+  height: 110px;
+  left: 243px;
+  position: absolute;
+  top: 150px;
+  width: 109px;
+}
+
+.frame .github-seeklogo-com {
+  height: 58px;
+  left: 69px;
+  position: absolute;
+  top: 240px;
+  width: 67px;
+}
+
+.frame .gitlab-seeklogo-com {
+  height: 57px;
+  left: 221px;
+  position: absolute;
+  top: 247px;
+  width: 58px;
+}
+
+.frame .git-seeklogo-com {
+  height: 73px;
+  left: 144px;
+  position: absolute;
+  top: 288px;
+  width: 72px;
+}
+
+.frame .with-wordmark {
+  height: 82px;
+  left: 277px;
+  position: absolute;
+  top: 311px;
+  width: 73px;
+}
+
+.frame .css-seeklogo-com {
+  height: 65px;
+  left: 23px;
+  position: absolute;
+  top: 327px;
+  width: 51px;
+}
+
+.frame .proyectos-https {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 22px;
+  font-style: italic;
+  font-weight: 600;
+  left: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 825px;
+  width: 338px;
+}
+
+.frame .overlap-2 {
+  height: 552px;
+  left: 0;
+  position: absolute;
+  top: 949px;
+  width: 360px;
+}
+
+.frame .rectangle-3 {
+  background-color: #6f6f6f80;
+  height: 151px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 360px;
+}
+
+.frame .titulos-https {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 22px;
+  font-style: italic;
+  font-weight: 600;
+  left: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 15px;
+  width: 321px;
+}
+
+.frame .rectangle-4 {
+  background-color: #6f6f6f80;
+  height: 383px;
+  left: 19px;
+  position: absolute;
+  top: 169px;
+  width: 324px;
+}
+
+.frame .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 51px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 372px;
+  width: 250px;
+}
+
+.frame .rectangle-5 {
+  background-color: #d9d9d9;
+  height: 93px;
+  left: 50px;
+  position: absolute;
+  top: 395px;
+  width: 261px;
+}
+
+.frame .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 51px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 259px;
+  width: 250px;
+}
+
+.frame .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 52px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 203px;
+  width: 250px;
+}
+
+.frame .rectangle-6 {
+  background-color: #d9d9d9;
+  height: 23px;
+  left: 49px;
+  position: absolute;
+  top: 225px;
+  width: 261px;
+}
+
+.frame .rectangle-7 {
+  background-color: #d9d9d9;
+  height: 23px;
+  left: 49px;
+  position: absolute;
+  top: 281px;
+  width: 261px;
+}
+
+.frame .text-wrapper-5 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 53px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 315px;
+  width: 250px;
+}
+
+.frame .rectangle-8 {
+  background-color: #d9d9d9;
+  height: 23px;
+  left: 51px;
+  position: absolute;
+  top: 338px;
+  width: 261px;
+}
