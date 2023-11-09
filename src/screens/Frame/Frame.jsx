@@ -9,7 +9,7 @@ export const Frame = () => {
         <div className="overlap">
           <div className="overlap-group">
             <img className="samperfil-removebg" alt="Samperfil removebg" src="/img/samperfil-removebg-preview-1.png" />
-            <p className="text-wrapper">Sam Machado - Develop Full Start</p>
+            <p className="text-wrapper">Sam Machado Developer Full Start</p>
             <img className="codificacion" alt="Codificacion" src="/img/codificacion-2.png" />
           </div>
           <img className="img" alt="Codificacion" src="/img/codificacion-2.png" />
@@ -51,13 +51,13 @@ export const Frame = () => {
           </div>
           <div className="rectangle-4" />
           <div className="text-wrapper-2">Descripción:</div>
-          <div className="rectangle-5" />
+          <textarea type="text" className="rectangle-5" />
           <div className="text-wrapper-3">Empresa:</div>
           <div className="text-wrapper-4">Nombre:</div>
-          <div className="rectangle-6" />
-          <div className="rectangle-7" />
+          <input type="text" className="rectangle-6" />
+          <input type="text" className="rectangle-7" />
           <div className="text-wrapper-5">Email:</div>
-          <div className="rectangle-8" />
+          <input type="text" className="rectangle-8" />
         </div>
       </div>
     </div>

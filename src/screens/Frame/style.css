@@ -42,7 +42,7 @@
 .frame .text-wrapper {
   color: #ffffff;
   font-family: "Inter", Helvetica;
-  font-size: 22px;
+  font-size: 19px;
   font-style: italic;
   font-weight: 600;
   left: 86px;
@@ -345,4 +345,8 @@
 
 .frame .red {
   color: rgb(78, 29, 29);
+}
+
+.frame .text-size {
+  size: 24px;
 }
