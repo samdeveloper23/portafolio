@@ -8,24 +8,9 @@
 
 .frame .div {
   background-color: #383838;
-  height: 1544px;
+  height: 3001px;
+  overflow: hidden;
   position: relative;
-  width: 360px;
-}
-
-.frame .overlap {
-  height: 397px;
-  left: 0;
-  position: absolute;
-  top: 6px;
-  width: 360px;
-}
-
-.frame .overlap-group {
-  height: 397px;
-  left: 0;
-  position: absolute;
-  top: 0;
   width: 360px;
 }
 
@@ -34,44 +19,42 @@
   left: 0;
   object-fit: cover;
   position: absolute;
-  top: 0;
+  top: 6px;
   width: 360px;
-  filter: grayscale(50%);
+}
+
+.frame .overlap {
+  height: 55px;
+  left: 83px;
+  position: absolute;
+  top: 348px;
+  width: 260px;
 }
 
 .frame .text-wrapper {
   color: #ffffff;
   font-family: "Inter", Helvetica;
-  font-size: 19px;
+  font-size: 22px;
   font-style: italic;
   font-weight: 600;
-  left: 86px;
+  left: 0;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
-  top: 341px;
+  top: 5px;
   width: 208px;
 }
 
 .frame .codificacion {
   height: 55px;
-  left: 288px;
+  left: 205px;
   object-fit: cover;
   position: absolute;
-  top: 342px;
+  top: 0;
   width: 55px;
 }
 
-.frame .img {
-  height: 55px;
-  left: 18px;
-  object-fit: cover;
-  position: absolute;
-  top: 342px;
-  width: 55px;
-}
-
-.frame .overlap-group-2 {
+.frame .overlap-group {
   height: 404px;
   left: 0;
   position: absolute;
@@ -201,7 +184,16 @@
   width: 51px;
 }
 
-.frame .proyectos-https {
+.frame .img {
+  height: 55px;
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  top: 348px;
+  width: 55px;
+}
+
+.frame .text-wrapper-2 {
   color: #ffffff;
   font-family: "Inter", Helvetica;
   font-size: 22px;
@@ -216,23 +208,15 @@
 }
 
 .frame .overlap-2 {
-  height: 552px;
-  left: 0;
-  position: absolute;
-  top: 949px;
-  width: 360px;
-}
-
-.frame .rectangle-3 {
   background-color: #6f6f6f80;
-  height: 151px;
-  left: 0;
+  height: 1055px;
+  left: 1px;
   position: absolute;
-  top: 0;
+  top: 1270px;
   width: 360px;
 }
 
-.frame .titulos-https {
+.frame .text-wrapper-3 {
   color: #ffffff;
   font-family: "Inter", Helvetica;
   font-size: 22px;
@@ -246,48 +230,48 @@
   width: 321px;
 }
 
-.frame .rectangle-4 {
+.frame .captura-desde {
+  height: 397px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 56px;
+  width: 355px;
+}
+
+.frame .captura-desde-2 {
+  height: 271px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 470px;
+  width: 345px;
+}
+
+.frame .captura-desde-3 {
+  height: 271px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 757px;
+  width: 345px;
+}
+
+.frame .overlap-3 {
   background-color: #6f6f6f80;
   height: 383px;
   left: 19px;
   position: absolute;
-  top: 169px;
-  width: 324px;
+  top: 2540px;
+  width: 323px;
 }
 
-.frame .text-wrapper-2 {
-  color: #ffffff;
-  font-family: "Inter", Helvetica;
-  font-size: 16px;
-  font-weight: 400;
-  left: 51px;
-  letter-spacing: 0;
-  line-height: normal;
+.frame .overlap-4 {
+  height: 116px;
+  left: 31px;
   position: absolute;
-  top: 372px;
-  width: 250px;
-}
-
-.frame .rectangle-5 {
-  background-color: #d9d9d9;
-  height: 93px;
-  left: 50px;
-  position: absolute;
-  top: 395px;
-  width: 261px;
-}
-
-.frame .text-wrapper-3 {
-  color: #ffffff;
-  font-family: "Inter", Helvetica;
-  font-size: 16px;
-  font-weight: 400;
-  left: 51px;
-  letter-spacing: 0;
-  line-height: normal;
-  position: absolute;
-  top: 259px;
-  width: 250px;
+  top: 203px;
+  width: 260px;
 }
 
 .frame .text-wrapper-4 {
@@ -295,30 +279,29 @@
   font-family: "Inter", Helvetica;
   font-size: 16px;
   font-weight: 400;
-  left: 52px;
+  left: 0;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
-  top: 203px;
+  top: 0;
   width: 250px;
 }
 
-.frame .rectangle-6 {
+.frame .rectangle-3 {
   background-color: #d9d9d9;
-  height: 23px;
-  left: 49px;
+  height: 93px;
+  left: 0;
   position: absolute;
-  top: 225px;
-  width: 261px;
+  top: 23px;
+  width: 260px;
 }
 
-.frame .rectangle-7 {
-  background-color: #d9d9d9;
-  height: 23px;
-  left: 49px;
+.frame .overlap-5 {
+  height: 45px;
+  left: 30px;
   position: absolute;
-  top: 281px;
-  width: 261px;
+  top: 90px;
+  width: 260px;
 }
 
 .frame .text-wrapper-5 {
@@ -326,27 +309,170 @@
   font-family: "Inter", Helvetica;
   font-size: 16px;
   font-weight: 400;
-  left: 53px;
+  left: 1px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
-  top: 315px;
+  top: 0;
   width: 250px;
 }
 
-.frame .rectangle-8 {
+.frame .rectangle-4 {
   background-color: #d9d9d9;
   height: 23px;
-  left: 51px;
+  left: 0;
   position: absolute;
-  top: 338px;
-  width: 261px;
+  top: 22px;
+  width: 260px;
 }
 
-.frame .red {
-  color: rgb(78, 29, 29);
+.frame .overlap-6 {
+  height: 45px;
+  left: 30px;
+  position: absolute;
+  top: 34px;
+  width: 260px;
 }
 
-.frame .text-size {
-  size: 24px;
+.frame .text-wrapper-6 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 2px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.frame .overlap-7 {
+  height: 46px;
+  left: 32px;
+  position: absolute;
+  top: 146px;
+  width: 260px;
+}
+
+.frame .rectangle-5 {
+  background-color: #d9d9d9;
+  height: 23px;
+  left: 0;
+  position: absolute;
+  top: 23px;
+  width: 260px;
+}
+
+.frame .overlap-8 {
+  height: 32px;
+  left: 121px;
+  position: absolute;
+  top: 335px;
+  width: 80px;
+}
+
+.frame .rectangle-6 {
+  background-color: #9d5996c9;
+  border-radius: 7px;
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 5px;
+  width: 80px;
+}
+
+.frame .plane-svgrepo-com {
+  height: 32px;
+  left: 14px;
+  position: absolute;
+  top: 0;
+  width: 52px;
+}
+
+.frame .captura-desde-4 {
+  height: 102px;
+  left: 43px;
+  object-fit: cover;
+  position: absolute;
+  top: 868px;
+  width: 103px;
+}
+
+.frame .captura-desde-5 {
+  height: 103px;
+  left: 211px;
+  object-fit: cover;
+  position: absolute;
+  top: 871px;
+  width: 106px;
+}
+
+.frame .captura-desde-6 {
+  height: 103px;
+  left: 43px;
+  object-fit: cover;
+  position: absolute;
+  top: 1140px;
+  width: 108px;
+}
+
+.frame .captura-desde-7 {
+  height: 104px;
+  left: 211px;
+  object-fit: cover;
+  position: absolute;
+  top: 1136px;
+  width: 106px;
+}
+
+.frame .captura-desde-8 {
+  height: 103px;
+  left: 127px;
+  object-fit: cover;
+  position: absolute;
+  top: 1001px;
+  width: 107px;
+}
+
+.frame .text-wrapper-7 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2337px;
+  width: 207px;
+}
+
+.frame .linkedin-svgrepo {
+  height: 140px;
+  left: 20px;
+  position: absolute;
+  top: 2380px;
+  width: 140px;
+}
+
+.frame .github-svgrepo-com {
+  height: 124px;
+  left: 207px;
+  position: absolute;
+  top: 2393px;
+  width: 126px;
+}
+
+.frame .mvl-email {
+  color: #ab4141;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2939px;
+  width: 240px;
 }
